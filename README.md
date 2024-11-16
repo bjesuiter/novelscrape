@@ -1,16 +1,18 @@
-# Fresh project
+# novelscrape
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+## Test with
 
-### Usage
+- Battle through the Heavens: https://novelbuddy.com/novel/battle-through-the-heavens/chapter-1-genius-no-more
+- Renegade Immortal: https://novelbuddy.com/novel/renegade-immortal/chapter-1-leaving-home
 
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
+## Helpful repo
 
-Then start the project:
+- Aniscrape: https://github.com/bjesuiter/aniscrape
 
-```
-deno task start
-```
+---
 
-This will watch the project directory and restart as necessary.
+# Repo Log
+
+## 01 Fresh Setup
+
+- https://fresh.deno.dev/ with fresh 1.6
