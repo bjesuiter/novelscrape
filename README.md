@@ -34,3 +34,5 @@ const contentNovelChapter= document.queryselector("div.content-inner")
 <!-- wert als text auslesen mit .innertext -->
 
 contentNovelChapter.innerText
+
+<!-- cheerio library google nachlesen zum FOrmatieren des Texytes, Lesbarkeit optimieren, aufhübschen -->
