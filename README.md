@@ -31,6 +31,8 @@
 
 const contentNovelChapter= document.queryselector("div.content-inner")
 
+<!-- eionfacher die p einzeln auslesen.= reiner text value -->
+
 <!-- wert als text auslesen mit .innertext -->
 
 contentNovelChapter.innerText
