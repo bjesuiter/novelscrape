@@ -36,3 +36,6 @@ const contentNovelChapter= document.queryselector("div.content-inner")
 contentNovelChapter.innerText
 
 <!-- cheerio library google nachlesen zum FOrmatieren des Texytes, Lesbarkeit optimieren, aufhübschen -->
+
+Nächster Schritt: Pfeil Button Rechts auf novelbuddy seite am ende des kapitels
+auslesen analog zu vorher, sh. parseNovelbuddy function
