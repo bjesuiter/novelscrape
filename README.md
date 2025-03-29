@@ -5,9 +5,11 @@
 - Battle through the Heavens: https://novelbuddy.com/novel/battle-through-the-heavens/chapter-1-genius-no-more
 - Renegade Immortal: https://novelbuddy.com/novel/renegade-immortal/chapter-1-leaving-home
 
-## Helpful repo
+## Helpful repos
 
-- Aniscrape: https://github.com/bjesuiter/aniscrape
+- Aniscrape (cheerio): https://github.com/bjesuiter/aniscrape
+- TK Suche Scraper (mit denocheerio): https://github.com/bjesuiter/tk-suche-scraper
+- Deno Scraping Template (puppeteer): https://github.com/codemonument/deno-scraping-template
 
 ---
 
