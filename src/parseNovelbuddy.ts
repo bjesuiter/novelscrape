@@ -15,6 +15,7 @@ wert als text auslesen mit .innertext
   const html = await response.text();
   //   console.log(html);
   //   cheerio parsed html, elemente suchen mit queryselector möglich
+  // parsen: string umwandeln in etwas das mehr struktur hat. string ist ein objekt geworden
   const $ = cheerio.load(html);
 
   const contentNovelChapter = $("div.content-inner");
@@ -23,3 +24,4 @@ wert als text auslesen mit .innertext
   console.log(text);
   return text;
 }
+// load function erstellen, also parseNovelbuddy function aufteilen anch aufgaben
